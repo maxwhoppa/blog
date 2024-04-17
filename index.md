@@ -1,6 +1,5 @@
-Here you can say lots of fun things about your site.
+I am Maxwell Newman. I have been hacking and coding for over a decade. 
 
-Maybe say a some things about yourself.
+I am interested in the intersection of life and engineering.
 
-
-Or maybe what you plan to blog about.
+This blog will be used as a space for discussion and learning on business, product, AI, and decision making
