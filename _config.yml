@@ -1,4 +1,4 @@
-title: "Ramblings of an emotional startup engineer"
+title: "Ramblings of an engineer"
 author: "Maxwell Newman"
 description: "Sharing learnings that nobody seems to talk about" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -7,7 +7,7 @@ description: "Sharing learnings that nobody seems to talk about" # This will sho
 email: "maxwellsimonnewman@gmail.com"
 # twitter_username: "twitteruser"
 github_username: "maxwhoppa"
-linkedin_username: "maxwell-newman-93b5046b"
+# linkedin_username: "maxwell-newman-93b5046b"
 #facebook_username: username
 #flickr_username: username
 instagram_username: "maxwhoppa"
@@ -20,7 +20,7 @@ instagram_username: "maxwhoppa"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
