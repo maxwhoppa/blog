@@ -1,4 +1,4 @@
-I am Maxwell Newman. I am a lover, a dedicated friend, and I have been hacking and coding for over a decade. 
+I am Maxwell Newman. I am a lover. I have been hacking and coding for over a decade. 
 
 I am interested in the intersection of life, philosphy, engineering, and people.
 
